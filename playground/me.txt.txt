@@ -1,0 +1,5 @@
+{{#user}}
+Name: Girish PN
+Skills: Selenium, Java, Manual Testing,SQL and basics of API testing
+Email: girishpn1005@gmail.com
+{{/user}}
